@@ -1,0 +1,6 @@
+{
+	"shell_cmd": "make"
+}
+{
+"cmd":["PATH_TO_CHROME_OR_FIREFOX","$file"]
+}
